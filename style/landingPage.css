@@ -1,0 +1,47 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/img/bg/bg4.webp");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 900;
+    text-shadow: 2px 2px #000;
+    letter-spacing: 4.5px;
+    text-align: center;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/img/bg/bg2.jpg");
+    background-size: cover;
+}
+
+/* .movieWrapper {
+} */
+
+.movieImage {
+    height: 200px;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.action {
+    height: auto;
+    background: url("../assets/img/bg/bg6.jpg");
+    background-size: cover;
+}
+
+.images {
+    height: 500px;
+}
